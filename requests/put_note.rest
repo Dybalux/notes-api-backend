@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes/61edf96e6fa3224acab92b64
+Content-Type: application/json
+
+{
+    "content": "Dame mate pa",
+    "important": true,
+}
